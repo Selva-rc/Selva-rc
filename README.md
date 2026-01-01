@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/selvarasan s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selvarasan s" height="30" width="40" /></a>
 <a href="https://instagram.com/selva_rc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="selva_rc_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@selva200513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@selva200513" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@selva200513" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/profile/selva200513" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
